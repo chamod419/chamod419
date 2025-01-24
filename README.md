@@ -31,7 +31,10 @@ My goal is to use technology to solve complex problems and create impactful soft
 ---
 
 <div align="center">
-## 🛠️ Tech Stack & Expertise  
+    <h1>
+        🛠️ Tech Stack & Expertise  
+    </h1>
+ 
 </div>
 
 <div align="center">
